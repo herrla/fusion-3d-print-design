@@ -1,0 +1,14 @@
+{
+  "name": "herrla",
+  "description": "Claude plugins by herrla",
+  "owner": {
+    "name": "herrla"
+  },
+  "plugins": [
+    {
+      "name": "fusion-3d-print-design",
+      "source": "./plugins/fusion-3d-print-design",
+      "description": "Design rules for FDM 3D-printed parts in Autodesk Fusion: Voron-style design principles, materials, tolerances, heat-set inserts, Fusion MCP workflow and checks."
+    }
+  ]
+}
