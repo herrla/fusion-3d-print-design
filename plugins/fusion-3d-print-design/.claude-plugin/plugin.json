@@ -1,0 +1,15 @@
+{
+  "name": "fusion-3d-print-design",
+  "description": "Design rules for FDM 3D-printed parts in Autodesk Fusion: Fusion MCP check and setup, Voron-style design principles, materials, tolerances, heat-set inserts, parametric modeling and checks.",
+  "author": {
+    "name": "herrla"
+  },
+  "homepage": "https://github.com/herrla/fusion-3d-print-design",
+  "repository": "https://github.com/herrla/fusion-3d-print-design",
+  "keywords": [
+    "fusion",
+    "3d-printing",
+    "cad",
+    "voron"
+  ]
+}
